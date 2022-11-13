@@ -5,7 +5,7 @@ using UnityEngine;
 public class cricets : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start(1:1)
+    void Start()
     {
       print("cricets")  
     }
