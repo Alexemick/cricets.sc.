@@ -5,9 +5,9 @@ using UnityEngine;
 public class cricets : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    void Start(1:1)
     {
-        
+      print("cricets")  
     }
 
     // Update is called once per frame
